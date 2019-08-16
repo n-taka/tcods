@@ -1,0 +1,16 @@
+.DS_Store
+*~
+#*
+*#
+*.o
+*.user
+build/
+Debug/
+Release/
+x64/
+GeneratedFiles/
+*.opendb
+*.db
+*pch
+.vs/
+
